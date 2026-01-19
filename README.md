@@ -1,4 +1,3 @@
-create a new repository on the command line
 echo "# Learnwithkbr" >> README.md
 git init
 git add README.md
